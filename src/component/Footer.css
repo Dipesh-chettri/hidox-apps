@@ -1,0 +1,286 @@
+.footer-container {
+    background-color: #091734;
+}
+
+.footer-content {
+    display: flex;
+    margin-left: 15px;
+    width: 100%;
+    padding: 15px 0px ;
+
+}
+
+.footer-info {
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+    margin-left: 10px;
+}
+
+.hidoc-features-div {
+    width: 50%;
+}
+
+.footer-hidocdr {
+    margin-top: 30px;
+}
+
+.footer-information {
+    margin: 3px 0px 22px 6px;
+    color: white;
+    width: 74%;
+    font-size: 12px;
+}
+
+.footer-icons {
+    display: flex;
+    justify-content: space-around;
+    width: 52%;
+}
+
+
+.hidocdr-details {
+    width: 25%;
+    margin-left: 7%;
+}
+
+.hidocdr-header {
+    color: white;
+}
+
+.hidocdr-label {
+    color: darkturquoise;
+}
+
+.hidocdr-fulldetails {
+    margin: 10px 0px;
+    color: white;
+    font-size: 12px;
+}
+
+.hidoc-features {
+    color: white;
+    margin: 10px;
+    font-weight: 500;
+}
+
+.hidocdr-header {
+    color: white;
+    font-weight: 500;
+    font-size: 16px;
+    margin: 10px 5px;
+}
+
+.hidoc-features-icons {
+    margin-left: 15px;
+    width: 100%;
+    display: flex;
+}
+
+.hidoc-drugdatabase,
+.hidoc-webinars,
+.hidoc-druginteracton,
+.hidoc-medical-calculator,
+.hidoc-articles,
+.hidoc-quizzes,
+.hidoc-diseases-database,
+.hidoc-surveys {
+    border: 1px solid #939191;
+    width: 100px;
+    height: 71px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    background-color: lightblue;
+
+}
+
+.hidoc-webinars {
+    background-color: lightpink;
+}
+
+.hidoc-druginteracton {
+    background-color: lightblue;
+}
+
+.hidoc-medical-calculator {
+    background-color: aliceblue;
+}
+
+.hidoc-articles {
+    background-color: lightyellow;
+}
+
+.hidoc-quizzes {
+    background-color: lightblue;
+}
+
+.hidoc-diseases-database {
+    background-color: #cde4ec;
+}
+
+.hidoc-surveys {
+    background-color: lightpink;
+}
+
+.hidocdr-footer {
+    background-color: lightgrey;
+    height: 71px;
+    text-align: center;
+    text-align: -webkit-center
+}
+
+.hidocdr-copyright {
+    margin-bottom: 3px;
+    padding-top: 12px;
+}
+
+.hidocdr-terms-conditions {
+    font-size: 14px;
+    margin-left: 7%;
+}
+
+.hidoc-features-name {
+    font-size: 12px;
+}
+
+.fiFolder {
+    background-color: deepskyblue;
+
+}
+
+.hidoc-drugdatabase p {
+    color: deepskyblue;
+}
+
+.fiFolder,
+.folder-quizzes,
+.folder-MdVideoCameraFront,
+.folder-aiFillFileText,
+.folder-aiOutlineCalculator,
+.folder-aiFillFileTextTwo,
+.folder-aiFillFileTextThree,
+.folder-mdContentPaste,
+.folder-quizzes {
+    border-radius: 25px;
+    padding: 8px 4px;
+    width: 33px;
+    height: 33px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.folder-MdVideoCameraFront {
+    background-color: orangered
+}
+
+.hidoc-webinars p {
+    color: orangered;
+}
+
+.folder-aiFillFileText {
+    background-color: cadetblue;
+}
+
+.hidoc-druginteracton p {
+    color: cadetblue;
+}
+
+.hidoc-quizzes p {
+    color: cadetblue;
+}
+
+.folder-aiOutlineCalculator {
+    background-color: limegreen
+}
+
+.hidoc-medical-calculator p {
+    color: limegreen;
+}
+
+.folder-aiFillFileTextTwo {
+    background-color: darkorange;
+}
+
+.hidoc-articles p {
+    color: darkorange;
+}
+
+.folder-aiFillFileTextThree {
+    background-color: deepskyblue;
+}
+
+.hidoc-diseases-database p {
+    color: deepskyblue;
+}
+
+.folder-mdContentPaste {
+    background-color: orangered
+}
+
+.folder-quizzes {
+    background-color: deepskyblue;
+}
+
+.hidoc-surveys p {
+    color: orangered;
+}
+
+.icons-size,
+.icons-FiFolder {
+    height: 1.5rem;
+    width: 1.5rem;
+    stroke: white;
+}
+
+.icons-citrophy,
+.icons-MdVideoCameraFront,
+.icons-AiFillFileText,
+.icons-AiOutlineCalculator,
+.icons-MdContentPaste,
+.facebook-icons,
+.instagram-icons,
+.youtube-icons,
+.linkedin-icons {
+    height: 1.5rem;
+    width: 1.5rem;
+    stroke: white;
+    fill: white;
+}
+
+
+
+.hidoc-fontweight {
+    font-weight: 700;
+}
+
+.copyright-icon {
+    margin-top: 4px !important;
+    margin-right: 2px;
+}
+
+.hidocdr-copyright {
+    font-size: 14px;
+    margin-left: 7%;
+    padding-top: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.hidocdr-header-info {
+    color: white;
+    font-size: 12px;
+    padding: 10px 0px;
+}
+
+.copyright-text{
+    margin-right: 5px;
+}
+
+.cursor-pointer{
+    cursor: pointer;
+}
